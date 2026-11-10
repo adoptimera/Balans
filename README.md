@@ -2,7 +2,7 @@
 
 Meditationsapp med guidade pass för närvaro och avslappning.
 
-Webbapp: https://adoptimera.github.io/Balans/
+Har flyttat in i Passform: https://passform.malarholm.se/lugn
 
 ## Innehåll
 - Pass 1: Känn kroppen, händer och fötter (cirka 10 min)
